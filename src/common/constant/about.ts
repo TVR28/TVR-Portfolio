@@ -1,6 +1,6 @@
 export const ABOUT = `
 <p>
-	I'm Swanand Wagh, a passionate individual deeply involved in the tech and entrepreneurial domains. My enthusiasm lies in creating innovative solutions that foster community engagement.
+	I'm Raviteja, a passionate individual deeply involved in the tech and entrepreneurial domains. My enthusiasm lies in creating innovative solutions that foster community engagement.
 </p>
 <p>
 	In terms of technical skills, I specialize in a range of programming languages and frameworks, including React (Next.js, Vite), TypeScript, JavaScript, Node.js, and Azure (Docker, Kubernetes). 
